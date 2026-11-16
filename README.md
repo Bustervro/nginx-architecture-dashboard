@@ -1,4 +1,3 @@
-# nginx-architecture-dashboard
 
 # NGINX Load Balancer Architecture Dashboard
 
