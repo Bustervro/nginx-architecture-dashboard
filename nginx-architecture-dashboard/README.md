@@ -29,7 +29,7 @@ Official verification: https://nginx.org/en/docs/http/load_balancing.html and ht
 - Manual QA checklist
 
 ## AI disclosure and prompt appendix
-**AI tool:** OpenAI ChatGPT (GPT-6), November 2026.
+**AI tool:** OpenAI ChatGPT  November 2026.
 
 **Exact user prompt that initiated the work:** The instructor assignment text requesting an analysis of an open-source architecture, an AI-scaffolded interactive companion prototype, fact checking, QA, deployment, README, and walkthrough (retain full instructor prompt in your submission materials if required).
 
